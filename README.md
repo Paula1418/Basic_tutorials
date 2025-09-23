@@ -1,2 +1,8 @@
-# Project 1
-Se encuentra los principios basicos para crear una pagina en gighub, el transformar un archivo a un formato TSV y un minitutorial basico 
+# Basic Tutorials
+
+Aquí encontrarás tutoriales básicos para aprender paso a paso.  
+Este repositorio incluye:
+- Cómo crear una página en GitHub Pages.
+- Cómo transformar un archivo CSV a TSV con Python.
+- Un mini tutorial documentado.
+
