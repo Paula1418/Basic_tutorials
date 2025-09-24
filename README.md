@@ -14,6 +14,14 @@ Estudiante de Ingeniería Biológica de la Universidad Nacional de Colombia – 
 -Extracción de PHA (Polihidroxialcanoato).
 -Entrenamiento en cultivo celular.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto lab 1.jpeg" alt="Experiencia en el laboratorio 1" width="200px" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto lab 2.jpeg" alt="Experiencia en el laboratorio 2" width="200px" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto lab 3.jpeg" alt="Experiencia en el laboratorio 3" width="200px" />
+</p>
+
 
 Contacto
 
