@@ -14,6 +14,7 @@ Estudiante de Ingeniería Biológica de la Universidad Nacional de Colombia – 
 -Extracción de PHA (Polihidroxialcanoato).
 -Entrenamiento en cultivo celular.
 
+
 Contacto
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_ELECTRÓNICO)
