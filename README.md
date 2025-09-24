@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería Biológica de la Universidad Nacional de Colombia – Sede Medellín. Actualmente curso el octavo semestre y hago parte activa del semillero APA (Análisis de Problemáticas Ambientales), donde he participado en proyectos de producción de bioplásticos a partir de Bacillus megaterium.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto.JPG" alt="Foto de perfil de María Paula" />
+  <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto.JPG" alt="Foto de perfil de María Paula" width="200px" height="200px" />
 </p>
 **Experiencia en laboratorio**
 
