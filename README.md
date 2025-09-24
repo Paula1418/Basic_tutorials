@@ -6,7 +6,7 @@ de
 
 Contacto
 
-[![Email](https://es.wikipedia.org/wiki/Gmail#/media/Archivo:Gmail_icon_(2020).svg)](mailto:TU_CORREO_ELECTRÓNICO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_ELECTRÓNICO)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-paula-garz%C3%B3n-caicedo-32991a311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
