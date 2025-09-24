@@ -1,8 +1,16 @@
 # Maria Paula Garzón
 
-Estudiante de Ingeniería Biologica de la Unversidad Nacional sede Medellín,actualmente me encuentro cursado en mi octavo semestre, tambien soy 
-estudiante activa del semillero APA (analisis de problematicas ambientales) en el cual he participado en la producción de bioplastico a partir
-de 
+Estudiante de Ingeniería Biológica de la Universidad Nacional de Colombia – Sede Medellín. Actualmente curso el octavo semestre y hago parte activa del semillero APA (Análisis de Problemáticas Ambientales), donde he participado en proyectos de producción de bioplásticos a partir de Bacillus megaterium.
+
+**Experiencia en laboratorio**
+
+-Apoyo en procesos de hidrólisis ácida.
+-Preparación de medios de cultivo.
+-Ejecución de pruebas espectrofotométricas: DNS, Bradford, Berthelot, entre otras.
+-Activación y criopreservación de cepas microbianas.
+-Seguimiento de procesos de fermentación.
+-Extracción de PHA (Polihidroxialcanoato).
+-Entrenamiento en cultivo celular.
 
 Contacto
 
