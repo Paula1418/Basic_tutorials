@@ -4,6 +4,7 @@ Estudiante de Ingeniería Biológica de la Universidad Nacional de Colombia – 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Paula1418/Basic_tutorials/main/foto.JPG" alt="Foto de perfil de María Paula" width="200px" height="400px" />
 </p>
+
 **Experiencia en laboratorio**
 
 -Apoyo en procesos de hidrólisis ácida.
